@@ -311,7 +311,6 @@ export default function App() {
                 {[
                   { day: 'Senin – Jumat', time: 'Buka – 21.00 WIB', open: true },
                   { day: 'Sabtu – Minggu', time: 'Buka – 21.00 WIB', open: true },
-                  { day: 'Hari Raya Iduladha', time: 'Mungkin berbeda', open: false },
                 ].map((r, i) => (
                   <div className="info-row" key={i}>
                     <span className="day">{r.day}</span>

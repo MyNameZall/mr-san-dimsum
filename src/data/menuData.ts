@@ -33,6 +33,6 @@ export const testimonials = [
 export const faqs = [
   { q: 'Apakah bisa pesan bawa pulang?', a: 'Tentu! Kami melayani makan di tempat (dine-in) maupun bawa pulang (takeaway). Pesanan takeaway dikemas rapi dan higienis.' },
   { q: 'Berapa harga dimsum di Mr. San?', a: 'Harga dimsum Mr. San sangat terjangkau, mulai dari Rp 1.000 hingga Rp 25.000 per porsi. Dilaporkan oleh pelanggan setia kami.' },
-  { q: 'Jam buka berapa?', a: 'Kami buka setiap hari dan tutup pukul 21.00 WIB. Jam buka mungkin berubah saat hari besar seperti Iduladha.' },
+  { q: 'Jam buka berapa?', a: 'Kami buka setiap hari dan tutup pukul 21.00 WIB. Jam buka mungkin berubah saat hari besar atau hari libur nasional.' },
   { q: 'Apakah bisa pesan via WhatsApp?', a: 'Bisa! Anda bisa pilih menu di website ini, masukkan ke keranjang, lalu kirim pesanan langsung ke WhatsApp kami di +62 856-4834-3970.' },
 ];
